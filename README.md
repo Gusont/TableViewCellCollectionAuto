@@ -1,3 +1,3 @@
 # TableViewCellCollectionAuto
 
-UITableViewCell中包含的UICollectionView的自适应搞得
+UITableViewCell中包含UICollectionView的自适应高度
