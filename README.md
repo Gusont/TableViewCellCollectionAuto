@@ -1,1 +1,3 @@
 # TableViewCellCollectionAuto
+
+UITableViewCell中包含的UICollectionView的自适应搞得
